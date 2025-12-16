@@ -1,1 +1,21 @@
-# MyGithubProfile
+# 💫 About Me:
+Hi, I'm Usman 👋<br><br>🎓 BS Computer Science Student at Alhamrah University<br>🎮 Aspiring Game Developer | 🌐 Web Development Learner<br><br>👨‍💻 About Me<br><br>I’m a Computer Science student with a strong interest in game development and interactive systems. Over the past year, I’ve worked on indie game projects using Unity, focusing on gameplay mechanics, game feel, and player interaction.<br><br>While my programming skills are still developing, I compensate with strong attention to detail, curiosity, and a build-first mindset. I learn best by creating real projects, breaking things, and fixing them again.<br><br>Currently, I’m expanding into web development to strengthen my programming fundamentals and broaden my skill set.<br><br>🛠️ Skills & Tools<br><br>Game Development<br>Unity (2D / 3D basics)<br>Gameplay mechanics & prototyping<br>Level design fundamentals<br><br>Web Development (Currently Learning)<br>HTML<br>CSS<br>JavaScript (basics)<br>Web fundamentals & project-based learning<br><br>Other<br>Git & GitHub<br>Strong focus on clean, understandable projects<br><br>🚀 Philosophy<br><br>I believe real skill comes from consistent practice and shipping projects, not just watching tutorials or memorizing theory.  <br>Every project I work on is an opportunity to improve my technical ability and understanding of systems.<br><br>📌 Current Focus<br><br>Improving programming fundamentals  <br>Learning full-stack web development basics  <br><br>🧠 Always learning  <br>🛠️ Always building  <br>🎯 Focused on getting better with every project<br>
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_whynotusman) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Muhammad Usman) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:um70179@gmail.com) 
+
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=plastic&logo=Aseprite&logoColor=#7D929E) ![Krita](https://img.shields.io/badge/Krita-203759?style=plastic&logo=krita&logoColor=EEF37B) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Tampermonkey](https://img.shields.io/badge/tampermonkey-%2300485B.svg?style=plastic&logo=tampermonkey&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=plastic&logo=Itch.io&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ZoDBlaze&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ZoDBlaze&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZoDBlaze&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ZoDBlaze&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
