@@ -10,7 +10,7 @@
 
 I’m a Computer Science student with a background in **game development and frontend programming**, currently transitioning into **Artificial Intelligence and Machine Learning** through a structured, fundamentals-first path.
 
-I have hands-on experience with **Unity and C#**, where I focus on gameplay mechanics, player interaction, and client-side systems. Alongside game development, I have foundational knowledge of **HTML, CSS, and JavaScript**, which I use to build simple interfaces and development tools.
+I have hands-on experience with **Unity**, where I focus on gameplay mechanics, player interaction, and client-side systems. Alongside game development, I have foundational knowledge of **HTML, CSS, and JavaScript**, which I use to build simple interfaces and development tools.
 
 I have completed **Python fundamentals** and am currently learning **data analysis and data handling**, with the goal of progressing into **machine learning and deep learning**. My long-term interest is applying AI techniques to games, simulations, and interactive systems.
 
@@ -22,7 +22,6 @@ I prioritize learning by **building real projects**, not memorizing theory or ch
 
 ### Game Development
 - Unity (2D / 3D fundamentals)
-- C# gameplay scripting
 - Core gameplay mechanics and interaction systems
 - Basic game UI implementation
 
@@ -39,7 +38,6 @@ I prioritize learning by **building real projects**, not memorizing theory or ch
 ### Tools
 - Git & GitHub
 - Itch.io
-- Aseprite / Krita
 - Adobe Illustrator
 
 ---
